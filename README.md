@@ -3,6 +3,16 @@
 A cross-platform mobile app built with Flutter & Dart that lets users browse restaurants, select meals, and order food.  
 Ideal for food‑delivery use‑cases — suitable as a demo, learning project, or foundation for a real‑world application.
 
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="login-page.png" width="200" />
+  <img src="menus-page.png" width="200" />
+  <img src="restaurant-page.png" width="200" />
+  <img src="card-page.png" width="200" />
+  <img src="payment-page.png" width="200" />
+  <img src="receipt-page.png" width="200" />
+</div>
+
 ---
 
 ## 🛠️ Features
